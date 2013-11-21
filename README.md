@@ -29,4 +29,8 @@ I recommend running this script every minute, to ensure no memory leaks,
 and provide reasonably quick response time for the players.
 
 This script assumes you have an init.d style script for your
-server, which will handle running the commands.
+server, which will handle running the commands.  An example of 
+a script like this is included with this distribution.  Typically,
+that script would live in /etc/init.d.
+
+
