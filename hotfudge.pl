@@ -2,7 +2,7 @@
 
 ## Set the init_script variable to the bash script that 
 ## starts / stops / restarts your server
-my $init_script = "/etc/init.d/mc17";
+my $init_script = "/etc/init.d/minecraft";
 
 ## Set coords for spawn and jail, at least.  You can add
 ## more coords if you have more destinations to support.
